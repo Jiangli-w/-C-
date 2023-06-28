@@ -1,0 +1,67 @@
+D:\Visual C++Program\User\bin\Debug\User.exe.config
+D:\Visual C++Program\User\bin\Debug\User.exe
+D:\Visual C++Program\User\bin\Debug\User.pdb
+D:\Visual C++Program\User\obj\Debug\User.Properties.Resources.resources
+D:\Visual C++Program\User\obj\Debug\User.csproj.GenerateResource.Cache
+D:\Visual C++Program\User\obj\Debug\User.exe
+D:\Visual C++Program\User\obj\Debug\User.pdb
+D:\Visual C++Program\User\obj\Debug\User.Form1.resources
+D:\Visual C++Program\User\obj\Debug\User.csprojResolveAssemblyReference.cache
+D:\Visual C++Program\User\bin\Debug\CSkin.xml
+C:\Users\admin\Desktop\Client\User\bin\Debug\User.exe.config
+C:\Users\admin\Desktop\Client\User\obj\Debug\User.exe
+C:\Users\admin\Desktop\Client\User\obj\Debug\User.pdb
+C:\Users\admin\Desktop\Client\User\bin\Debug\User.exe
+C:\Users\admin\Desktop\Client\User\bin\Debug\User.pdb
+C:\Users\admin\Desktop\Client\User\bin\Debug\CSkin.xml
+C:\Users\admin\Desktop\Client\User\obj\Debug\User.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Client\User\obj\Debug\User.Form1.resources
+C:\Users\admin\Desktop\Client\User\obj\Debug\User.Properties.Resources.resources
+C:\Users\admin\Desktop\Client\User\obj\Debug\User.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\新建文件夹\Client\User\bin\Debug\User.exe.config
+C:\Users\admin\Desktop\新建文件夹\Client\User\obj\Debug\User.exe
+C:\Users\admin\Desktop\新建文件夹\Client\User\obj\Debug\User.pdb
+C:\Users\admin\Desktop\新建文件夹\Client\User\bin\Debug\images\1.jpg
+C:\Users\admin\Desktop\新建文件夹\Client\User\bin\Debug\User.exe
+C:\Users\admin\Desktop\新建文件夹\Client\User\bin\Debug\User.pdb
+C:\Users\admin\Desktop\新建文件夹\Client\User\bin\Debug\CSkin.xml
+C:\Users\admin\Desktop\新建文件夹\Client\User\obj\Debug\User.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\新建文件夹\Client\User\obj\Debug\User.Form1.resources
+C:\Users\admin\Desktop\新建文件夹\Client\User\obj\Debug\User.Properties.Resources.resources
+C:\Users\admin\Desktop\新建文件夹\Client\User\obj\Debug\User.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\c#网络\Client\User\bin\Debug\images\1.jpg
+C:\Users\Administrator\Desktop\c#网络\Client\User\bin\Debug\User.exe.config
+C:\Users\Administrator\Desktop\c#网络\Client\User\bin\Debug\User.exe
+C:\Users\Administrator\Desktop\c#网络\Client\User\bin\Debug\User.pdb
+C:\Users\Administrator\Desktop\c#网络\Client\User\bin\Debug\CSkin.xml
+C:\Users\Administrator\Desktop\c#网络\Client\User\obj\Debug\User.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\c#网络\Client\User\obj\Debug\User.Form1.resources
+C:\Users\Administrator\Desktop\c#网络\Client\User\obj\Debug\User.Properties.Resources.resources
+C:\Users\Administrator\Desktop\c#网络\Client\User\obj\Debug\User.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\c#网络\Client\User\obj\Debug\User.exe
+C:\Users\Administrator\Desktop\c#网络\Client\User\obj\Debug\User.pdb
+C:\Users\Administrator\Desktop\c#网络\c#网络\Client\User\bin\Debug\User.exe.config
+C:\Users\Administrator\Desktop\c#网络\c#网络\Client\User\obj\Debug\User.exe
+C:\Users\Administrator\Desktop\c#网络\c#网络\Client\User\obj\Debug\User.pdb
+C:\Users\Administrator\Desktop\c#网络\c#网络\Client\User\bin\Debug\images\1.jpg
+C:\Users\Administrator\Desktop\c#网络\c#网络\Client\User\bin\Debug\User.exe
+C:\Users\Administrator\Desktop\c#网络\c#网络\Client\User\bin\Debug\User.pdb
+C:\Users\Administrator\Desktop\c#网络\c#网络\Client\User\bin\Debug\CSkin.xml
+C:\Users\Administrator\Desktop\c#网络\c#网络\Client\User\obj\Debug\User.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\c#网络\c#网络\Client\User\obj\Debug\User.Form1.resources
+C:\Users\Administrator\Desktop\c#网络\c#网络\Client\User\obj\Debug\User.Properties.Resources.resources
+C:\Users\Administrator\Desktop\c#网络\c#网络\Client\User\obj\Debug\User.csproj.GenerateResource.Cache
+F:\study\Program\C#_Web\期末\c#网络\Client\User\bin\Debug\User.exe.config
+F:\study\Program\C#_Web\期末\c#网络\Client\User\obj\Debug\User.exe
+F:\study\Program\C#_Web\期末\c#网络\Client\User\obj\Debug\User.pdb
+F:\study\Program\C#_Web\期末\c#网络\Client\User\bin\Debug\images\1.jpg
+F:\study\Program\C#_Web\期末\c#网络\Client\User\bin\Debug\User.exe
+F:\study\Program\C#_Web\期末\c#网络\Client\User\bin\Debug\User.pdb
+F:\study\Program\C#_Web\期末\c#网络\Client\User\bin\Debug\CSkin.xml
+F:\study\Program\C#_Web\期末\c#网络\Client\User\obj\Debug\User.csprojResolveAssemblyReference.cache
+F:\study\Program\C#_Web\期末\c#网络\Client\User\obj\Debug\User.Properties.Resources.resources
+F:\study\Program\C#_Web\期末\c#网络\Client\User\obj\Debug\User.csproj.GenerateResource.Cache
+F:\study\Program\C#_Web\期末\c#网络\Client\User\obj\Debug\User.Form1.resources
+D:\desktop\c#网络\Client\User\bin\Debug\User.exe.config
+D:\desktop\c#网络\Client\User\obj\Debug\User.exe
+D:\desktop\c#网络\Client\User\obj\Debug\User.pdb

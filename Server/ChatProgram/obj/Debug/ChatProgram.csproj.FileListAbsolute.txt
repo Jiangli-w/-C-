@@ -1,0 +1,86 @@
+D:\Visual C++Program\ChatProgram\bin\Debug\ChatProgram.exe.config
+D:\Visual C++Program\ChatProgram\bin\Debug\ChatProgram.exe
+D:\Visual C++Program\ChatProgram\bin\Debug\ChatProgram.pdb
+D:\Visual C++Program\ChatProgram\obj\Debug\ChatProgram.Form1.resources
+D:\Visual C++Program\ChatProgram\obj\Debug\ChatProgram.Properties.Resources.resources
+D:\Visual C++Program\ChatProgram\obj\Debug\ChatProgram.csproj.GenerateResource.Cache
+D:\Visual C++Program\ChatProgram\obj\Debug\ChatProgram.exe
+D:\Visual C++Program\ChatProgram\obj\Debug\ChatProgram.pdb
+D:\Visual C++Program\ChatProgram\bin\Debug\CSkin.dll
+D:\Visual C++Program\ChatProgram\bin\Debug\CSkin.xml
+D:\Visual C++Program\ChatProgram\obj\Debug\ChatProgram.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Server\ChatProgram\bin\Debug\ChatProgram.exe.config
+C:\Users\admin\Desktop\Server\ChatProgram\obj\Debug\ChatProgram.exe
+C:\Users\admin\Desktop\Server\ChatProgram\obj\Debug\ChatProgram.pdb
+C:\Users\admin\Desktop\Server\ChatProgram\bin\Debug\ChatProgram.exe
+C:\Users\admin\Desktop\Server\ChatProgram\bin\Debug\ChatProgram.pdb
+C:\Users\admin\Desktop\Server\ChatProgram\bin\Debug\CSkin.xml
+C:\Users\admin\Desktop\Server\ChatProgram\obj\Debug\ChatProgram.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Server\ChatProgram\obj\Debug\ChatProgram.Form1.resources
+C:\Users\admin\Desktop\Server\ChatProgram\obj\Debug\ChatProgram.Properties.Resources.resources
+C:\Users\admin\Desktop\Server\ChatProgram\obj\Debug\ChatProgram.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Server\ChatProgram\bin\Debug\ChatProgram.exe.manifest
+C:\Users\admin\Desktop\Server\ChatProgram\bin\Debug\ChatProgram.application
+C:\Users\admin\Desktop\Server\ChatProgram\obj\Debug\ChatProgram.exe.manifest
+C:\Users\admin\Desktop\Server\ChatProgram\obj\Debug\ChatProgram.application
+C:\Users\admin\Desktop\新建文件夹\Server\ChatProgram\bin\Debug\ChatProgram.exe.config
+C:\Users\admin\Desktop\新建文件夹\Server\ChatProgram\obj\Debug\ChatProgram.exe
+C:\Users\admin\Desktop\新建文件夹\Server\ChatProgram\obj\Debug\ChatProgram.pdb
+C:\Users\admin\Desktop\新建文件夹\Server\ChatProgram\bin\Debug\ChatProgram.exe.manifest
+C:\Users\admin\Desktop\新建文件夹\Server\ChatProgram\bin\Debug\ChatProgram.application
+C:\Users\admin\Desktop\新建文件夹\Server\ChatProgram\bin\Debug\ChatProgram.exe
+C:\Users\admin\Desktop\新建文件夹\Server\ChatProgram\bin\Debug\ChatProgram.pdb
+C:\Users\admin\Desktop\新建文件夹\Server\ChatProgram\bin\Debug\CSkin.xml
+C:\Users\admin\Desktop\新建文件夹\Server\ChatProgram\obj\Debug\ChatProgram.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\新建文件夹\Server\ChatProgram\obj\Debug\ChatProgram.Form1.resources
+C:\Users\admin\Desktop\新建文件夹\Server\ChatProgram\obj\Debug\ChatProgram.Properties.Resources.resources
+C:\Users\admin\Desktop\新建文件夹\Server\ChatProgram\obj\Debug\ChatProgram.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\新建文件夹\Server\ChatProgram\obj\Debug\ChatProgram.exe.manifest
+C:\Users\admin\Desktop\新建文件夹\Server\ChatProgram\obj\Debug\ChatProgram.application
+C:\Users\admin\Desktop\新建文件夹\Server\ChatProgram\bin\Debug\images\2.jpg
+C:\Users\Administrator\Desktop\c#网络\Server\ChatProgram\bin\Debug\ChatProgram.exe.config
+C:\Users\Administrator\Desktop\c#网络\Server\ChatProgram\obj\Debug\ChatProgram.exe
+C:\Users\Administrator\Desktop\c#网络\Server\ChatProgram\obj\Debug\ChatProgram.pdb
+C:\Users\Administrator\Desktop\c#网络\Server\ChatProgram\bin\Debug\ChatProgram.exe.manifest
+C:\Users\Administrator\Desktop\c#网络\Server\ChatProgram\bin\Debug\ChatProgram.application
+C:\Users\Administrator\Desktop\c#网络\Server\ChatProgram\bin\Debug\ChatProgram.exe
+C:\Users\Administrator\Desktop\c#网络\Server\ChatProgram\bin\Debug\ChatProgram.pdb
+C:\Users\Administrator\Desktop\c#网络\Server\ChatProgram\bin\Debug\CSkin.xml
+C:\Users\Administrator\Desktop\c#网络\Server\ChatProgram\obj\Debug\ChatProgram.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\c#网络\Server\ChatProgram\obj\Debug\ChatProgram.Form1.resources
+C:\Users\Administrator\Desktop\c#网络\Server\ChatProgram\obj\Debug\ChatProgram.Properties.Resources.resources
+C:\Users\Administrator\Desktop\c#网络\Server\ChatProgram\obj\Debug\ChatProgram.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\c#网络\Server\ChatProgram\obj\Debug\ChatProgram.exe.manifest
+C:\Users\Administrator\Desktop\c#网络\Server\ChatProgram\obj\Debug\ChatProgram.application
+C:\Users\Administrator\Desktop\c#网络\Server\ChatProgram\bin\Debug\images\2.jpg
+C:\Users\Administrator\Desktop\c#网络\c#网络\Server\ChatProgram\bin\Debug\ChatProgram.exe.config
+C:\Users\Administrator\Desktop\c#网络\c#网络\Server\ChatProgram\obj\Debug\ChatProgram.exe
+C:\Users\Administrator\Desktop\c#网络\c#网络\Server\ChatProgram\obj\Debug\ChatProgram.pdb
+C:\Users\Administrator\Desktop\c#网络\c#网络\Server\ChatProgram\bin\Debug\images\2.jpg
+C:\Users\Administrator\Desktop\c#网络\c#网络\Server\ChatProgram\bin\Debug\ChatProgram.exe.manifest
+C:\Users\Administrator\Desktop\c#网络\c#网络\Server\ChatProgram\bin\Debug\ChatProgram.application
+C:\Users\Administrator\Desktop\c#网络\c#网络\Server\ChatProgram\bin\Debug\ChatProgram.exe
+C:\Users\Administrator\Desktop\c#网络\c#网络\Server\ChatProgram\bin\Debug\ChatProgram.pdb
+C:\Users\Administrator\Desktop\c#网络\c#网络\Server\ChatProgram\bin\Debug\CSkin.xml
+C:\Users\Administrator\Desktop\c#网络\c#网络\Server\ChatProgram\obj\Debug\ChatProgram.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\c#网络\c#网络\Server\ChatProgram\obj\Debug\ChatProgram.Form1.resources
+C:\Users\Administrator\Desktop\c#网络\c#网络\Server\ChatProgram\obj\Debug\ChatProgram.Properties.Resources.resources
+C:\Users\Administrator\Desktop\c#网络\c#网络\Server\ChatProgram\obj\Debug\ChatProgram.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\c#网络\c#网络\Server\ChatProgram\obj\Debug\ChatProgram.exe.manifest
+C:\Users\Administrator\Desktop\c#网络\c#网络\Server\ChatProgram\obj\Debug\ChatProgram.application
+F:\study\Program\C#_Web\期末\c#网络\Server\ChatProgram\bin\Debug\ChatProgram.exe.config
+F:\study\Program\C#_Web\期末\c#网络\Server\ChatProgram\bin\Debug\ChatProgram.exe.manifest
+F:\study\Program\C#_Web\期末\c#网络\Server\ChatProgram\bin\Debug\ChatProgram.application
+F:\study\Program\C#_Web\期末\c#网络\Server\ChatProgram\bin\Debug\ChatProgram.exe
+F:\study\Program\C#_Web\期末\c#网络\Server\ChatProgram\bin\Debug\ChatProgram.pdb
+F:\study\Program\C#_Web\期末\c#网络\Server\ChatProgram\bin\Debug\CSkin.xml
+F:\study\Program\C#_Web\期末\c#网络\Server\ChatProgram\obj\Debug\ChatProgram.csprojResolveAssemblyReference.cache
+F:\study\Program\C#_Web\期末\c#网络\Server\ChatProgram\obj\Debug\ChatProgram.Form1.resources
+F:\study\Program\C#_Web\期末\c#网络\Server\ChatProgram\obj\Debug\ChatProgram.Properties.Resources.resources
+F:\study\Program\C#_Web\期末\c#网络\Server\ChatProgram\obj\Debug\ChatProgram.csproj.GenerateResource.Cache
+F:\study\Program\C#_Web\期末\c#网络\Server\ChatProgram\obj\Debug\ChatProgram.exe.manifest
+F:\study\Program\C#_Web\期末\c#网络\Server\ChatProgram\obj\Debug\ChatProgram.application
+F:\study\Program\C#_Web\期末\c#网络\Server\ChatProgram\obj\Debug\ChatProgram.exe
+F:\study\Program\C#_Web\期末\c#网络\Server\ChatProgram\obj\Debug\ChatProgram.pdb
+F:\study\Program\C#_Web\期末\c#网络\Server\ChatProgram\bin\Debug\images\2.jpg
+F:\study\Program\C#_Web\期末\c#网络\Server\ChatProgram\bin\Debug\images\12.jpg
